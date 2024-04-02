@@ -12,7 +12,7 @@ pip install -r requirements.txt
 _Note_: PyRosetta should be installed following the instructions [here](http://pyrosetta.org/downloads).
 
 ## Download FvFold pretrained weight and unzip and copy the weight in trained_models/ensemble/
-Two Trained weight has been given. Download from [here](https://1drv.ms/f/s!Alyu1bFVgHYUgyV4EDsCsFnqQtaC?e=hkRnsO).
+Two Trained weight has been given. Download from [here](https://zenodo.org/records/10791148).
 1)	Trained weights for evaluating therapeutic and rosetta benchmark dataset
 2)	Trained weights for evaluating Igfold benchmark
 
